@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {
+      "$oid": "61830dfc9e2295c45e3131e7"
+    },
+    "Nome": "A Cidade dos Ladrões",
+    "Autor": "Ian Livingstone",
+    "imageUrl": "https://imagens.lelivros.love/2014/05/Download-A-Cidade-dos-Ladroes-Aventuras-Fant%C3%A1sticas-Vol-4-Ian-Livingstone-em-ePUB-mobi-e-pdf-370x523.jpg",
+    "Data_Criação": "03112021_1939"
+  },
+  {
+    "_id": {
+      "$oid": "61830fce9e2295c45e3131e8"
+    },
+    "Nome": "A Cidadela do Caos",
+    "Autor": "Ian Livingstone",
+    "imageUrl": "https://imagens.lelivros.love/2014/05/Download-A-Cidadela-do-Caos-Aventuras-Fant%C3%A1sticas-Vol-1-Ian-Livingstone-em-ePUB-mobi-e-pdf-370x523.jpg",
+    "Data_Criação": "03112021_1942"
+  },
+  {
+    "_id": {
+      "$oid": "618310579e2295c45e3131e9"
+    },
+    "Nome": "Mansão das Trevas",
+    "Autor": "Steve Jackson",
+    "imageUrl": "https://aventurasfantasticas.files.wordpress.com/2009/04/mansao-das-trevas1.gif",
+    "Data_Criação": "03112021_1944"
+  },
+  {
+    "_id": {
+      "$oid": "618311009e2295c45e3131ea"
+    },
+    "Nome": "Mares de Sangue",
+    "Autor": "Ian Livingstone",
+    "Data_Criação": "03112021_1946",
+    "imageUrl": "https://imagens.lelivros.love/2014/05/Download-Mares-de-Sangue-Aventuras-Fant%C3%A1sticas-Vol-9-Ian-Livingstone-em-ePUB-mobi-e-pdf.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "618311719e2295c45e3131eb"
+    },
+    "Nome": "Encontro com o M.E.D.O",
+    "Autor": "Steve Jackson",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61rCdxTK4FL.jpg",
+    "Data_Criação": "03112021_1949"
+  },
+  {
+    "_id": {
+      "$oid": "618312119e2295c45e3131ec"
+    },
+    "Nome": "A Floresta da Destruição",
+    "Autor": "Ian Livingstone",
+    "imageUrl": "https://imagens.lelivros.love/2014/05/Download-A-Floresta-da-Destrui%C3%A7%C3%A3o-Aventuras-Fant%C3%A1sticas-Vol-3-Ian-Livingstone-em-ePUB-mobi-e-pdf-370x523.jpg",
+    "Data_Criação": "03112021_1951"
+  },
+  {
+    "_id": {
+      "$oid": "618312969e2295c45e3131ed"
+    },
+    "Nome": "A Nave Espacial Traveller",
+    "Autor": "Steve Jackson",
+    "imageUrl": "https://rpgmaisbarato.com/assets/upload/produtos/5a6fa4f4a7ec0/77264_ff15-capa.jpg",
+    "Data_Criação": "03112021_1953"
+  },
+  {
+    "_id": {
+      "$oid": "618313109e2295c45e3131ee"
+    },
+    "Nome": "A Cripta do Vampiro",
+    "Autor": "Steve Jackson",
+    "imageUrl": "https://lojasaraiva.vteximg.com.br/arquivos/ids/2330116/7442.jpg",
+    "Data_Criação": "03112021_1955"
+  },
+  {
+    "_id": {
+      "$oid": "618313559e2295c45e3131ef"
+    },
+    "Nome": "O Guerreiro das Estradas",
+    "Autor": "Ian Livingstone",
+    "imageUrl": "https://aventurasfantasticas.files.wordpress.com/2009/04/o-guerreiro-das-estradas1.gif",
+    "Data_Criação": "03112021_1957"
+  },
+  {
+    "_id": {
+      "$oid": "6183140b9e2295c45e3131f0"
+    },
+    "Nome": "O Porto do Perigo",
+    "Autor": "Ian Livingstone",
+    "imageUrl": "https://m.livrariavanguarda.com.br/resizer/view/373/373/false/true/139403.jpg",
+    "Data_Criação": "03112021_1959"
+  }
+]
